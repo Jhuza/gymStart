@@ -1,0 +1,21 @@
+# Sistema operativo Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Sistema operativo Mac
+.DS_Store
+
+# Módulos de Node.js (Fase 2 en adelante)
+node_modules/
+
+# Variables de entorno (datos sensibles)
+.env
+.env.local
+
+# Carpetas de build
+dist/
+build/
+
+# Editor VS Code
+.vscode/
