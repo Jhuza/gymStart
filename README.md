@@ -1,4 +1,4 @@
-# GymStart 🏋️
+# gymStart 🏋️
 
 Aplicación web para jóvenes que están comenzando su camino en el fitness.
 
